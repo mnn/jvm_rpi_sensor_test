@@ -51,4 +51,6 @@ Which gives ~5% JVM launch overhead (0.185s).
 
 - - -
 
-Conclusion: JVM overhead is in my opinion negligible compared to other required task.
+Conclusion: JVM overhead is in my opinion negligible compared to other required tasks.
+
+PS: I did not "cheat" by not using libraries (in the true enterprise spirit).
